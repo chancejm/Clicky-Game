@@ -1,0 +1,19 @@
+.container{
+    margin: 0 auto;
+    /* border: 2px solid black; */
+    width: 80%;
+    height: 100%;
+    /* max-width: 800px; */
+}
+
+@media screen and (max-width: 640px) {
+    .container {
+        width: 100%;
+    }
+  }
+
+  @media screen and (min-width: 1200px) {
+    .container {
+        max-width: 800px;
+    }
+  }

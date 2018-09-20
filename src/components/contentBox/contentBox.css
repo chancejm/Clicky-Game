@@ -1,0 +1,10 @@
+.contentBox{
+    margin-top: 25px;
+}
+
+.text{
+    background-color: #F3F6F9;
+    padding: 25px;
+    border: 5px solid rgba(215, 85, 94, 0.808);
+    border-radius: 15px; 
+}
